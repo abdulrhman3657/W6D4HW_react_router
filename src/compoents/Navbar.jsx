@@ -25,7 +25,7 @@ function Navbar() {
                 class="block max-w-sm p-6 border w-40 rounded-lg shadow-sm text-center bg-blue-800 border-black hover:bg-blue-900 hover:-translate-y-3"
               >
                 <h5 class="mb-2 text-2xl font-bold tracking-tight text-gray-900 dark:text-white">
-                  Animal
+                  Reef
                 </h5>
               </a>
             </Link>
